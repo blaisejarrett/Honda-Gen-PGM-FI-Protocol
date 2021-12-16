@@ -2,7 +2,7 @@
 This project's goal is to understand the Honda EU7000IS "DLC" "Data Link Connector".
 The DLC connector is used for diagnostics with Honda's "Dr.H" Diagnostics tool.
 
-Using Honda's Diagnostics tool it enables you to query the Generators Serial Number and
+Using Honda's Diagnostics tool enables you to query the Generators Serial Number and
 stream real time sensors for the following
 * Engine Run Time
 * Engine Speed
@@ -32,7 +32,7 @@ regions. This research was done with a Canadian 2021 model. Your mileage may var
 of the information provided could be incorrect.
 
 
-# Physical later
+# Physical layer
 The DLC connector is uses a [Sumitomo HM 6187-4441 Connector](https://prd.sws.co.jp/components/en/detail.php?number_s=61874441)
 
 It has 4 pins.
