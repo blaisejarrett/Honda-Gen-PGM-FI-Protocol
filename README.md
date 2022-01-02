@@ -106,7 +106,9 @@ Example Reply
 0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18
 CB 00 00 00 18 09 6F 83 00 60 2F 01 03 01 F2 00 06 7E 0B
 CB 00 00 00 18 09 64 80 00 64 2F 01 03 01 F2 00 06 7E 7E
-         ** ** runtime in minutes.
+      ** runtime in days? Have no evidence yet.
+         ** runtime in hours
+            ** runtime in minutes.
                ** ** engine RPM
                      ** Battery voltage * 0.1 
                         ** ** Cylinder head C -50
